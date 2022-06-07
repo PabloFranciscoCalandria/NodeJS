@@ -8,3 +8,6 @@ Options:
   -l, --listar   Muestra la tabla en consola          [boolean] [default: false]
   -h, --hasta    Multiplica la base hasta el              [number] [default: 10]
 ```
+
+Agregar dependencias:
+npm install 
